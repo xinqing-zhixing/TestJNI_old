@@ -33,6 +33,10 @@ public class TestCMakeActivity extends AppCompatActivity {
 //        testVariable();
 //        testPointer();
         testArray();
+
+        JNIUtils jniUtils = new JNIUtils();
+        jniUtils.testPointer();
+
     }
 
     /**

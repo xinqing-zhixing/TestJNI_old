@@ -22,6 +22,7 @@ add_library( # Sets the name of the library.
              src/main/cpp/TestDataType.c
              src/main/cpp/TestVariable.c
              src/main/cpp/TestArray.c
+             src/main/cpp/Test1_Pointer.c
               )
 
 # Searches for a specified prebuilt library and stores the path as a

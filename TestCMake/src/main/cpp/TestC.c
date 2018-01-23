@@ -43,4 +43,3 @@ Java_hu_mobile_testcmake_TestCMakeActivity_testPointer(JNIEnv *env, jobject inst
 char * testExtern(){
     return "测试 extern 关键字 ";
 }
-
